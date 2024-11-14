@@ -26,7 +26,7 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url(midias/img5.jpeg);
+    background-image: url(./midias/img5.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -66,7 +66,7 @@ section .coment{
 }
 
 #img-1{
-    background-image: url(midias/img3.jpeg);
+    background-image: url(./midias/img3.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -78,7 +78,7 @@ section .coment{
     color: white;
 }
 #img-2{
-    background-image: url(midias/img4.jpeg);
+    background-image: url(./midias/img4.jpeg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
